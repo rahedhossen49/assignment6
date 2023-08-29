@@ -16,7 +16,7 @@ var server = http.createServer(function (req,res){
     }
 })
 
-server.listen(8980);
+server.listen(3000);
 console.log("server running");
 
 */
@@ -146,7 +146,7 @@ var server = http.createServer((req, res) => {
 });
 
 
-server.listen(8090)
+server.listen(3000)
 console.log("Server Running");
 
 */
@@ -168,7 +168,7 @@ var server = http.createServer(function (req,res){
 })
 
 
-server.listen(8000);
+server.listen(3000);
 console.log("Server Success");
 
 
